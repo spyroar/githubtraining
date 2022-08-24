@@ -4,3 +4,6 @@ This is chat app
 1.emoji
 type
 color
+
+
+darkmode
