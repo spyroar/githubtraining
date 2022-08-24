@@ -8,3 +8,8 @@ color
 
 darkmode
 calling
+
+
+payment options
+
+send money
